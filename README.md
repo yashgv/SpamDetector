@@ -15,6 +15,9 @@ pandas
 scikit-learn
 streamlit
 
+<h2>Dataset Source</h2>
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 # Installation:
 Install the required libraries: pip install pandas scikit-learn streamlit
 
