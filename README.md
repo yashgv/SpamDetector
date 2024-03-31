@@ -1,6 +1,12 @@
+
 # SpamDetector
 Spam Detection with Streamlit Integration
 This project implements a spam detection model using Naive Bayes and integrates it with a user-friendly Streamlit frontend. Users can enter email or SMS text, and the model predicts whether it's likely spam or not.
+
+# Preview
+
+![Screenshot 2024-03-31 233030](https://github.com/yashgv/SpamDetector/assets/130405230/4f5a969e-3e6a-4c20-acdc-4018f3bcbab4)
+![Screenshot 2024-03-31 232957](https://github.com/yashgv/SpamDetector/assets/130405230/50aa7379-b4d0-45e1-9b72-3130be36699d)
 
 # Requirements:
 Python 3
