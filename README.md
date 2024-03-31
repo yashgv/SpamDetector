@@ -1,6 +1,7 @@
 
 # SpamDetector
 Spam Detection with Streamlit Integration
+
 This project implements a spam detection model using Naive Bayes and integrates it with a user-friendly Streamlit frontend. Users can enter email or SMS text, and the model predicts whether it's likely spam or not.
 
 # Preview
